@@ -4,3 +4,4 @@ play.ipynb
 *.zip
 __pycache__/
 *.egg-info/
+results/
