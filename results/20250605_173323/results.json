@@ -1,0 +1,34 @@
+{
+  "selected_features": [
+    "mean radius",
+    "mean texture",
+    "mean symmetry",
+    "smoothness error",
+    "concavity error",
+    "symmetry error",
+    "worst perimeter",
+    "worst compactness",
+    "worst concave points",
+    "worst symmetry"
+  ],
+  "selected_indices": [
+    0,
+    1,
+    8,
+    14,
+    16,
+    18,
+    22,
+    25,
+    27,
+    28
+  ],
+  "best_score": 0.9578326346840553,
+  "parameters": {
+    "population_size": 10,
+    "generations": 15,
+    "cv": 5,
+    "crossover_rate": 0.8,
+    "mutation_rate": 0.01
+  }
+}

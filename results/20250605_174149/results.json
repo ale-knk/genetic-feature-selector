@@ -1,0 +1,47 @@
+{
+  "selected_features": [
+    "mean radius",
+    "mean texture",
+    "mean area",
+    "mean smoothness",
+    "mean fractal dimension",
+    "perimeter error",
+    "area error",
+    "smoothness error",
+    "compactness error",
+    "worst radius",
+    "worst texture",
+    "worst smoothness",
+    "worst concavity",
+    "worst concave points",
+    "worst symmetry",
+    "worst fractal dimension"
+  ],
+  "selected_indices": [
+    0,
+    1,
+    3,
+    4,
+    9,
+    12,
+    13,
+    14,
+    15,
+    20,
+    21,
+    24,
+    26,
+    27,
+    28,
+    29
+  ],
+  "best_score": 0.9736531594472908,
+  "parameters": {
+    "population_size": 20,
+    "generations": 25,
+    "cv": 5,
+    "crossover_rate": 0.6,
+    "mutation_rate": 0.05,
+    "elite_size": 2
+  }
+}

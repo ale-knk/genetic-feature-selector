@@ -3,3 +3,4 @@ play.ipynb
 .vscode
 *.zip
 __pycache__/
+*.egg-info/
