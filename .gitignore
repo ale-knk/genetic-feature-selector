@@ -1,0 +1,5 @@
+play.ipynb
+.env
+.vscode
+*.zip
+__pycache__/
